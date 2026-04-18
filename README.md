@@ -8,8 +8,10 @@
 <p align="center">
   <img width="70" height="150" alt="NBA_Logo2" src="https://github.com/user-attachments/assets/3f5ebae8-b136-4553-b254-fdc518f7fbd5" >
 </p>
+<br>
 
 La NBA (La National Basketball Association) est la principale ligue de basket-ball au monde. Elle fut créée le 6 juin 1946 sous le nom de BAA (Basketball Association of America). La ligue est ensuite renommée NBA en 1949 après sa fusion avec la NBL (National Basketball League. Le championnat comprend actuellement 30 franchises (29 aux Etats-Unis et une au Canada), réparties en deux Conférences (Est et Ouest). La saison régulière comprend 82 matchs en 6 mois de compétition.
+<br>
 
 <p align="center">
   <img width="300" height="168" alt="Conferences_NBA" src="https://github.com/user-attachments/assets/7cdf0a46-2865-4353-80b0-75063c9aba5b" >
