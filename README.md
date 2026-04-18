@@ -1,4 +1,7 @@
-# Manipulation d'un dataframe avec python
+# <p align="center"> Manipulation d'un dataframe avec python </p>
+<br>
+
+---
 
 ### ▶️Introduction
 
